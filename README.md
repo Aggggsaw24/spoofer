@@ -1,2 +1,2 @@
 # spoofer-scp-sl.
-s
+это спуфер от midnight scp sl его выдавали до закрытия
